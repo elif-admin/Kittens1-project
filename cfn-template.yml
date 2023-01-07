@@ -46,4 +46,4 @@ Outputs:
     Value: !Sub
       - http://${PublicAddress}
       - PublicAddress: !GetAtt WebServerHost.PublicDnsName
-    Description: Kittens Carousel Application URL 
+    Description: Elif's Kittens Carousel Application URL 
